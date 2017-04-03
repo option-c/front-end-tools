@@ -35,9 +35,10 @@ List of links to tools/libraries that I've used or want to use in UI (mainly bro
 - [trix] (https://github.com/basecamp/trix) - A rich text editor (https://trix-editor.org/)
 - [typeahead.js] (https://github.com/twitter/typeahead.js) - Autocomplete library (http://twitter.github.io/typeahead.js/examples/).
 - [underscore] (https://github.com/jashkenas/underscore) - JavaScript's utility _ belt (http://underscorejs.org/).
+- [viewer.js] (https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer (https://fengyuanchen.github.io/viewerjs).
 - [vuejs] (https://github.com/vuejs/vue) - JavaScript framework (http://vuejs.org).
 - [way.js] (https://github.com/gwendall/way.js) - Persistent two-way databinding.
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Front End Tools</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/option-c/front-end-tools" property="cc:attributionName" rel="cc:attributionURL">https://github.com/option-c/front-end-tools</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/option-c/front-end-tools" rel="dct:source">https://github.com/option-c/front-end-tools</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Front End Tools</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/option-c/front-end-tools" property="cc:attributionName" rel="cc:attributionURL">https://github.com/option-c/front-end-tools</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
