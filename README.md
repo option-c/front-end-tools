@@ -31,6 +31,7 @@ List of links to tools/libraries that I've used or want to use in UI (mainly bro
 - [svelte] (https://github.com/sveltejs/svelte) - UI framework (https://svelte.technology).
 - [sweetalert] (https://github.com/t4t5/sweetalert) - Original SweetAlert replacement for browser's alert() function (http://t4t5.github.io/sweetalert).
 - [sweetalert2] (https://github.com/limonte/sweetalert2) - Updated version of SweetAlert (https://limonte.github.io/sweetalert2/).
+- [tippy.js] (https://github.com/atomiks/tippyjs) - Lightweight tooltip library (https://atomiks.github.io/tippyjs/).
 - [toastr] (https://github.com/CodeSeven/toastr) - JavaScript toast notifications (http://codeseven.github.io/toastr/).
 - [trix] (https://github.com/basecamp/trix) - A rich text editor (https://trix-editor.org/)
 - [typeahead.js] (https://github.com/twitter/typeahead.js) - Autocomplete library (http://twitter.github.io/typeahead.js/examples/).
