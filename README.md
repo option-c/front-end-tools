@@ -34,6 +34,7 @@ List of links to tools/libraries that I've used or want to use in UI (mainly bro
 - [tippy.js] (https://github.com/atomiks/tippyjs) - Lightweight tooltip library (https://atomiks.github.io/tippyjs/).
 - [toastr] (https://github.com/CodeSeven/toastr) - JavaScript toast notifications (http://codeseven.github.io/toastr/).
 - [trix] (https://github.com/basecamp/trix) - A rich text editor (https://trix-editor.org/)
+- [trunc8] (https://github.com/rviscomi/trunk8) - Intelligent text truncation for jQuery (http://jrvis.com/trunk8/)
 - [typeahead.js] (https://github.com/twitter/typeahead.js) - Autocomplete library (http://twitter.github.io/typeahead.js/examples/).
 - [underscore] (https://github.com/jashkenas/underscore) - JavaScript's utility _ belt (http://underscorejs.org/).
 - [viewer.js] (https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer (https://fengyuanchen.github.io/viewerjs).
