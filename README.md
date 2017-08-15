@@ -39,9 +39,14 @@ List of links to tools/libraries that I've used or want to use in UI (mainly bro
 - [typeahead.js](https://github.com/twitter/typeahead.js) - Autocomplete library (http://twitter.github.io/typeahead.js/examples/).
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt (http://underscorejs.org/).
 - [viewer.js](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer (https://fengyuanchen.github.io/viewerjs).
-- [vuejs](https://github.com/vuejs/vue) - JavaScript framework (http://vuejs.org).
 - [way.js](https://github.com/gwendall/way.js) - Persistent two-way databinding (http://gwendall.github.io/way/).
 
+### Vue.js
+- [vuejs](https://github.com/vuejs/vue) - JavaScript framework (http://vuejs.org).
+- [Vuestic](https://github.com/epicmaxco/vuestic-admin) - Vue.js admin dashboard (http://epicmax.co/vuestic).
+- [Vue Notifications](https://github.com/euvl/vue-notification/) - Vue.js library for showing notifications (http://vue-notification.yev.io/).
+- [Vue Tables](https://github.com/matfish2/vue-tables-2) - Vue table component (Demo: https://jsfiddle.net/matfish2/823jzuzc/).
+ 
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Front End Tools</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/option-c/front-end-tools" property="cc:attributionName" rel="cc:attributionURL">https://github.com/option-c/front-end-tools</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
