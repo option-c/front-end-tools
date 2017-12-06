@@ -29,6 +29,7 @@ List of links to tools/libraries that I've used or want to use in UI (mainly bro
 - [smallworld.js](http://github.com/mikefowler/smallworld.js) - Generate maps using GeoJSON and HTML canvas (http://mikefowler.me/smallworld.js).
 - [smartunderline](https://github.com/CloudflareApps/SmartUnderline) - Descender-aware underlines (https://eager.io/showcase/SmartUnderline/).
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases.
+- [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in Javascript.
 - [svelte](https://github.com/sveltejs/svelte) - UI framework (https://svelte.technology).
 - [sweetalert](https://github.com/t4t5/sweetalert) - Original SweetAlert replacement for browser's alert() function (http://t4t5.github.io/sweetalert).
 - [sweetalert2](https://github.com/limonte/sweetalert2) - Updated version of SweetAlert (https://limonte.github.io/sweetalert2/).
